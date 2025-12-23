@@ -2,7 +2,6 @@ $ResourceGroupName = "rg-myapp"
 $location = "uksouth"
 $Vnet_Name = "vnet-myapp-dev-uksouth-01"
 $Subnet_Name = "frontend-subnet-dev-uksouth-01"
-$Nic_name = "nic-web-dev-uksouth-01"
 $Nsg_Name = "nsg-myapp-shared-uksouth-01"
 
 
